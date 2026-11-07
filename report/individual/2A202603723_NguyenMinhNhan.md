@@ -81,6 +81,6 @@ Terra Zero-shot: 17.775 USD/tháng.
 
 ## 7. AI log và điều đã học
 
-Trong quá trình làm bài, mình sử dụng ChatGPT để kiểm tra hàm tính precision, recall, F1, tìm nguyên nhân LLM trả về nhãn không hợp lệ và giải thích kết quả thử nghiệm. Mình đã sửa cách đếm FP/FN, tăng max_completion_tokens từ 3 lên 32 và chạy lại để kiểm tra.
+Trong quá trình làm bài, em sử dụng ChatGPT để kiểm tra hàm tính precision, recall, F1, tìm nguyên nhân LLM trả về nhãn không hợp lệ và giải thích kết quả thử nghiệm. Em đã sửa cách đếm FP/FN, tăng max_completion_tokens từ 3 lên 32 và chạy lại để kiểm tra.
 
-Qua bài lab, mình hiểu rằng F1 cao chưa chắc mô hình phù hợp để triển khai thực tế. Ngoài chất lượng, cần quan tâm đến độ trễ, chi phí và khả năng xử lý các trường hợp nằm ngoài dữ liệu huấn luyện.
+Qua bài lab, em hiểu rằng F1 cao chưa chắc mô hình phù hợp để triển khai thực tế. Ngoài chất lượng, cần quan tâm đến độ trễ, chi phí và khả năng xử lý các trường hợp nằm ngoài dữ liệu huấn luyện.
